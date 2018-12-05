@@ -4,7 +4,7 @@
 
 ## Cite
 
-If you use the system for your research, please consider citing it as follows:
+If you reuse the system for your research, please consider citing it as follows:
 
 ```
 @InProceedings{wani-EtAl:2018:W18-05,
